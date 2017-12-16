@@ -53,4 +53,4 @@ Contributions are encouraged.  Please see [CONTRIBUTING](CONTRIBUTING.md) for de
 
 ## License
 
-- `Laravel Eloquent Flag` package is open-sourced software licensed under the [GPLv3](LICENSE).
+- This package is open-sourced software licensed under the [GPLv3](LICENSE).
